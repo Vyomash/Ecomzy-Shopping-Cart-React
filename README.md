@@ -17,7 +17,7 @@ To run the Shopping Cart locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/thisisehtesham/ECOMZY.git
+https://github.com/Vyomash/Ecomzy-Shopping-Cart-React.git
 ```
 
 2. Navigate to the project directory:
