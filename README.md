@@ -66,10 +66,6 @@ The Shopping Cart project was built during a web development bootcamp as part of
 
 Please note that this project was primarily intended for learning and practice, so major feature additions or architectural changes may not be accepted. However, bug fixes, code optimizations, and small enhancements are appreciated.
 
-## License
-
-The Shopping Cart is released under the [MIT License](LICENSE). Feel free to use and modify the code according to your needs.
-
 ---
 
 Thank you for your interest in the Shopping Cart project! If you have any questions or need further assistance, please don't hesitate to reach out. Happy shopping!
